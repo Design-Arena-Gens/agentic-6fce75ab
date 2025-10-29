@@ -883,6 +883,9 @@ venv.bak/
 *.json
 *.xml
 *.parquet
+!package.json
+!tsconfig.json
+!.eslintrc.json
 data/
 datasets/
 
